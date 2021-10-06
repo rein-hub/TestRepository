@@ -1,5 +1,5 @@
 # TestRepository
 just testing github
 
-testing from eclipseeeeeeeeeeeee
+ok everthing working now :-)
 
